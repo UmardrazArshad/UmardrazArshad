@@ -25,7 +25,7 @@ I am a **Generative & Agentic AI Developer**, specializing in AI applications, a
 - **LinkedIn**: <a href="https://www.linkedin.com/in/umardraz-arshad/">
     <img src="https://img.shields.io/badge/Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a> 
-- **Email**: <a href="umardrazarshadumardrazarshad9@gmail.com">
+- **Email**: <a href="mailto:umardrazarshadumardrazarshad9@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 
