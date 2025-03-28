@@ -18,9 +18,25 @@ I am a **Generative & Agentic AI Developer**, specializing in AI applications, a
 - Open-source AI innovation and research  
 
 ### 📫 How to reach me  
-- **GitHub**: [UmardrazArshad](https://github.com/UmardrazArshad)  
-- **LinkedIn**: [https://www.linkedin.com/in/umardraz-arshad/]
-- **Email**: [umardrazarshadumardrazarshad9@gmail.com]
+[![GitHub](https://img.shields.io/badge/GitHub-UmardrazArshad-black?style=flat-square&logo=github)](https://github.com/UmardrazArshad)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/umardraz-arshad/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](umardrazarshadumardrazarshad9@gmail.com)  
+
+---
+
+### ⚡ Skills  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0085CA?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=crewai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlit-333333?style=for-the-badge&logo=chainlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
 
 ### 😄 Pronouns: He/Him  
 
