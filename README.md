@@ -13,7 +13,7 @@ I am a **Generative & Agentic AI Developer**, specializing in AI applications, a
 ### 🌱 I’m currently learning  
 - Advanced AI automation techniques  
 - Enhancing AI-powered workflows with OpenAI Agents SDK  
-- Exploring new frameworks for AI-driven applications  
+- learning these skills form PIAIC
 
 ### 💞️ I’m looking to collaborate on  
 - AI-powered chatbot and automation projects  
