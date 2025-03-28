@@ -19,8 +19,8 @@ I am a **Generative & Agentic AI Developer**, specializing in AI applications, a
 
 ### 📫 How to reach me  
 - **GitHub**: [UmardrazArshad](https://github.com/UmardrazArshad)  
-- **LinkedIn**: [umardraz-arshad][https://www.linkedin.com/in/umardraz-arshad/]
-- **Email**: [umardrazarshadumardrazarshad9@gmail.com]  
+- **LinkedIn**: [https://www.linkedin.com/in/umardraz-arshad/]
+- **Email**: [umardrazarshadumardrazarshad9@gmail.com]
 
 ### 😄 Pronouns: He/Him  
 
