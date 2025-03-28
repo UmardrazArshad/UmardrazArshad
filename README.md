@@ -26,7 +26,7 @@ I am a **Generative & Agentic AI Developer**, specializing in AI applications, a
     <img src="https://img.shields.io/badge/Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a> 
 - **Email**: <a href="mailto:umardrazarshadumardrazarshad9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
 
 ### 😄 Pronouns: He/Him  
