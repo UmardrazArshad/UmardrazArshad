@@ -23,7 +23,7 @@ I am a **Generative & Agentic AI Developer**, specializing in AI applications, a
 ### 📫 How to reach me  
 - **GitHub**: [UmardrazArshad](https://github.com/UmardrazArshad)  
 - **LinkedIn**: <a href="https://www.linkedin.com/in/umardraz-arshad/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a> 
 - **Email**: [umardrazarshadumardrazarshad9@gmail.com]  
 
