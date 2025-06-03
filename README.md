@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Umar Draz Arshad  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2307C3FF&lines=Generative+%26+Agentic+AI+Developer;Student+of+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2307C3FF&lines=Learning+Generative+%26+Agentic+AI;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 I am a **Generative & Agentic AI Developer**, specializing in AI applications, automation, and chatbots. I build intelligent systems using **LangChain, CrewAI, OpenAI Agents SDK, Chainlit, and Streamlit** to create seamless AI-driven solutions.  
